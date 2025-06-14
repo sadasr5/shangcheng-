@@ -100,7 +100,7 @@
 <!--            swagger依赖-->
             <dependency>
                 <groupId>io.springfox</groupId>
-                <artifactId>springfox-bool-starter</artifactId>
+                <artifactId>springfox-boot-starter</artifactId>
                 <version>${springfox.version}</version>
             </dependency>
         </dependencies>
